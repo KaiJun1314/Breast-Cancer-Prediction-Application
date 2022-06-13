@@ -1,4 +1,4 @@
-"# Breast-Cancer-Prediction-Appliation" 
+# Breast-Cancer-Prediction-Appliation
 This is project predicts the type of breast cancer based on the previous diagnosis data.
 
 - File - 
